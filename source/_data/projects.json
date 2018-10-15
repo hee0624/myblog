@@ -1,0 +1,8 @@
+[
+    {
+        "name":"extract_news",
+        "url":"https://github.com/hee0624/extract_news",
+        "desc":"Python package to parse news from various news website"
+    }
+
+]
