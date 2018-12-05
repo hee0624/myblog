@@ -53,6 +53,17 @@ pip install pytesseract
    2    Legacy + LSTM engines.
    3    Default, based on what is available.
 - Page Segmentation Mode(psm): psm 或许是非常有用的，对于结构化文本有额外的信息对于python和命令行工具默认是3,c++　API默认是6.
+   0    只有方向和脚本检测（OSD）。
+   1    使用OSD自动分页。
+   2    自动分页，但没有OSD或OCR。
+   3    全自动页面分割，但没有OSD。（默认）
+   4    假设一列可变大小的文本。
+   5    假设一个统一的垂直排列文本块。
+   6    假设一个统一的文本块。
+   7    将图像作为单个文本行处理。
+   8    将图像视为一个单词。
+   9    将图像视为一个圆圈中的单个单词。
+   10   将图像视为单个字符。
 
 ### 2.1 Command Line Usage
 ```shell
