@@ -23,12 +23,14 @@ Hi, I'm Chen He(陈贺) from [中科院软件研究所](https://www.iscas.ac.cn)
 - 机器学习/深度学习
     1. 基于聚类技术自动化抽取资讯正文,避免了不同网站写不同的抽取模板。
     2. 基于分类技术自动化识别资讯链接，加快了资讯采集速度。
-- 前端/后端
+- 前端/后端/运维
     1. Vue/Javascript/css–爬虫工程师往往都是一个前端工程师
     2. Flask–独立开发了一个内部资讯管理系统
+    3. 熟悉docker应用部署
+
 
 ## 个人简历
 
 我的简历:[个人简历](/resume/)
-    <iframe src="https://hee0624.github.io/donate-page/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>
+​    <iframe src="https://hee0624.github.io/donate-page/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>
 
